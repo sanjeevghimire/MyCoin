@@ -59,7 +59,7 @@ Is the chain Valid? false
 
 # License
 
-(MIT)[]
+(MIT)[https://raw.githubusercontent.com/sanjeevghimire/MyCoin/master/LICENSE]
 
 
 
