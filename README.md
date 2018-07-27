@@ -8,6 +8,11 @@ This is a basic introduction to showcase the concepts of blockchain. It covers h
 * nodejs
 * crypto-js
 
+# Youtube Video
+
+[Blockchain Video](https://www.youtube.com/watch?v=5zB29T8Jg6k)
+
+
 # How To Run
 
 * git clone the repository
